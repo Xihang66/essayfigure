@@ -1,6 +1,6 @@
 clear;clc;
 radiation
-S=importdata('k(lamda).txt');
+S=importdata('k(lambda).txt');
 klamda=S.data(:,2);
 j=1;
 for x=0:0.01:10
