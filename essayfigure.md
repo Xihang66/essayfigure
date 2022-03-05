@@ -7,7 +7,13 @@
 
 
 
+![Absorption2](https://user-images.githubusercontent.com/100748608/156871168-c569fdb4-3534-4951-b5af-ed013e561761.jpg)
 
+![Absorption1](https://user-images.githubusercontent.com/100748608/156871169-0065901c-e7a3-4f47-9e0c-32d030b37ba0.jpg)
+
+
+
+![matlabphoto](https://user-images.githubusercontent.com/100748608/156871172-ecdd68a9-9771-49d6-a1db-2109ad2e253f.jpg)
 
 
 
