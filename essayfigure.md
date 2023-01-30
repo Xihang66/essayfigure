@@ -5,15 +5,18 @@
 
 ![three risk factors](https://user-images.githubusercontent.com/100748608/156796353-f87eefa4-1423-4f84-9a77-7f81a954939f.jpg)(three risk factors)
 
-
-
 ![Absorption2](https://user-images.githubusercontent.com/100748608/156871168-c569fdb4-3534-4951-b5af-ed013e561761.jpg)
 
 ![Absorption1](https://user-images.githubusercontent.com/100748608/156871169-0065901c-e7a3-4f47-9e0c-32d030b37ba0.jpg)
 
-
-
 ![matlabphoto](https://user-images.githubusercontent.com/100748608/156871172-ecdd68a9-9771-49d6-a1db-2109ad2e253f.jpg)
+
+
+![original risk matrix](https://user-images.githubusercontent.com/100748608/215545783-2f206d5e-3128-4165-8acc-a115824f725b.PNG)(original risk matrix)
+
+
+
+![optimal risk matrix](https://user-images.githubusercontent.com/100748608/215545840-3a678166-e03f-4c3b-8e36-c8f22557dc54.PNG)(optimal risk matrix)
 
 
 
